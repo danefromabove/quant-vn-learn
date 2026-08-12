@@ -18,9 +18,8 @@ ipykernel>=6.29
 scikit-learn>=1.6
 statsmodels>=0.14
 
-# Quant-specific
+# Quant-specific (removed empyrical - incompatible with Python 3.13)
 arch>=7.0
-empyrical>=0.5
 
 # Data Collection
 requests>=2.32
