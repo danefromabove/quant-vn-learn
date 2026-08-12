@@ -1,0 +1,39 @@
+# Quant VN Learn - Python Dependencies
+# Python >= 3.13 required
+
+# Core Data Science
+numpy>=2.0
+pandas>=2.2
+scipy>=1.14
+matplotlib>=3.9
+seaborn>=0.13
+plotly>=5.24
+
+# Jupyter
+jupyter>=1.1
+jupyterlab>=4.2
+ipykernel>=6.29
+
+# Statistics & ML
+scikit-learn>=1.6
+statsmodels>=0.14
+
+# Quant-specific
+arch>=7.0
+empyrical>=0.5
+
+# Data Collection
+requests>=2.32
+beautifulsoup4>=4.12
+lxml>=5.3
+html5lib>=1.1
+
+# Development Tools
+pytest>=8.3
+black>=24.8
+ruff>=0.6
+mypy>=1.11
+
+# Utilities
+tqdm>=4.67
+pyarrow>=17.0

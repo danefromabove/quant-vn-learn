@@ -21,6 +21,7 @@
 | **Vietnam context** | Dữ liệu VN, không phải US textbook examples |
 | **Production mindset** | Clean code, reproducibility ngay từ đầu |
 | **Progressive complexity** | Từ đơn giản → phức tạp, mỗi bước vững chắc |
+| **Bilingual** | Giải thích bằng tiếng Việt + English |
 
 ---
 
@@ -477,7 +478,7 @@ phase5-research-production/
 
 ### 8.1 Core Dependencies
 ```
-python>=3.11
+python>=3.13
 jupyter>=1.0
 numpy>=1.26
 pandas>=2.1
